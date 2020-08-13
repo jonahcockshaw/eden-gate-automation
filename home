@@ -167,7 +167,7 @@
           <div class="footer-logo">eden gate automation</div>
         </div>
         <div class="footer-menu-column w-col w-col-6"><a href="index.html" aria-current="page" class="footer-inline-link w--current">Home</a><a href="about.html" class="footer-inline-link">About</a><a href="portfolio.html" class="footer-inline-link">portfolio</a><a href="faqs.html" class="footer-inline-link">faqs</a><a href="contact.html" class="footer-inline-link">contact</a></div>
-        <div class="footer-social-col-right w-col w-col-3"><a href="https://www.facebook.com/Eden-Gate-Automation-Ltd-317597694987834" target="_blank" class="footer-social-icon w-inline-block"><img src="images/Icon-facebook.png" alt="" class="footer-small-social-icon"></a></div>
+        <div class="footer-social-col-right w-col w-col-3"><a href="https://www.facebook.com/Eden-Gate-Automation-Ltd-317597694987834" target="_blank" class="footer-social-icon w-inline-block"><img src="/Icon-facebook.png" alt="" class="footer-small-social-icon"></a></div>
       </div>
     </div>
     <div class="simple-bottom-footer">
